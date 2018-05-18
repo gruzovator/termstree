@@ -8,6 +8,7 @@ setup(
     use_scm_version=True,
     setup_requires=['setuptools_scm'],
     packages=['termstree'],
+    install_requires=['pyahocorasick'],
     python_requires='>=3',
     url='https://github.com/gruzovator/termstree',
     license='MIT',
