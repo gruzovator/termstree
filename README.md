@@ -4,7 +4,7 @@ Library to build *terms tree* from indented text file and to search terms in tha
 
 May be used for text labeling/classification tasks.
 
-See also: [termstree library](https://pypi.org/project/termsquery/)
+See also: [termsquery library](https://pypi.org/project/termsquery/)
 
 ## Example
 
